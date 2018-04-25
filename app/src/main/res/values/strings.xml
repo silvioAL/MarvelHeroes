@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="error_default">Ocorreu um erro</string>
+    <string name="loading">Carregando...</string>
+    <string name="warning">Atenção</string>
+    <string name="ok">ok</string>
+    <string name="comics">comics</string>
+    <string name="HAVE_NOT_COMICS">DO NOT HAVE ANY COMIC</string>
+</resources>
